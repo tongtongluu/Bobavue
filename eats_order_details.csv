@@ -1,0 +1,100 @@
+Territory,Restaurant ID,Order ID,Order Time,Month,Order Status,ItemName,Customizations,Special Instructions,ItemPrice,Order Price,Currency,Tea,Restaurant,Name,x,y,smallx,smally
+5,3e371220-f559-46ee-8ec9-b4c574416099,3ed2e4e7-0675-4528-8d8a-e9ca70b217e1,2020-12-14 02:58:05 +0000 UTC,Dec,completed,Bubble Milk Tea,"Large, Hot, No Sugar, White Bubble",,5.75,19.26,USD,TRUE,Moge Tea (East Village),TT,503,729,833,701
+5,3e371220-f559-46ee-8ec9-b4c574416099,3ed2e4e7-0675-4528-8d8a-e9ca70b217e1,2020-12-14 02:58:05 +0000 UTC,Dec,completed,Fresh Grapefruit Green Tea,"No Sugar, Less Ice",,7,19.26,USD,TRUE,Moge Tea (East Village),TT,712,732,868,684
+5,a950414b-a339-4fc7-8886-835ffc3d70b7,8dae9298-78f2-45fa-a6b9-c3b5014498d8,2020-11-20 00:55:17 +0000 UTC,Nov,completed,Oolong Milk Tea,"Large, Zero (0%), No Ice",,4.85,21.81,USD,TRUE,Kung Fu Tea,TT,1130,849,587,775
+5,a950414b-a339-4fc7-8886-835ffc3d70b7,8dae9298-78f2-45fa-a6b9-c3b5014498d8,2020-11-20 00:55:17 +0000 UTC,Nov,completed,Oolong Milk Tea,"Large, Zero (0%), No Ice",,4.85,21.81,USD,TRUE,Kung Fu Tea,TT,1024,473,537,692
+5,a950414b-a339-4fc7-8886-835ffc3d70b7,8dae9298-78f2-45fa-a6b9-c3b5014498d8,2020-11-20 00:55:17 +0000 UTC,Nov,completed,Kung Fu Green Milk Tea,"No Ice, Oreo, Large, Little (30%)",,4.85,21.81,USD,TRUE,Kung Fu Tea,JY,755,773,888,822
+5,5505967a-cfa0-4e22-ad2a-479cb3903ffe,5dcd1551-fcb9-4843-b5d9-10304b3ff6ad,2020-11-08 20:00:14 +0000 UTC,Nov,completed,Milk Green Tea,"No Ice, Medium , 30%",,4.85,20.38,USD,TRUE,Kung Fu Tea,JY,625,799,522,661
+5,5505967a-cfa0-4e22-ad2a-479cb3903ffe,5dcd1551-fcb9-4843-b5d9-10304b3ff6ad,2020-11-08 20:00:14 +0000 UTC,Nov,completed,Oolong Milk Tea,"No Ice, Large, 0%",,4.85,20.38,USD,TRUE,Kung Fu Tea,TT,1014,892,845,757
+5,5505967a-cfa0-4e22-ad2a-479cb3903ffe,5dcd1551-fcb9-4843-b5d9-10304b3ff6ad,2020-11-08 20:00:14 +0000 UTC,Nov,completed,Oolong Milk Tea,"No Ice, Large, 0%",,4.85,20.38,USD,TRUE,Kung Fu Tea,TT,1188,893,850,748
+5,a950414b-a339-4fc7-8886-835ffc3d70b7,70edf8bf-b9ca-4851-b175-37fdbaeb0ed6,2020-10-04 18:41:52 +0000 UTC,Oct,completed,Kung Fu Green Milk Tea,"No Ice, Bubble(Boba), Large, Little (30%)",,4.85,21.81,USD,TRUE,Kung Fu Tea,JY,802,485,831,863
+5,a950414b-a339-4fc7-8886-835ffc3d70b7,70edf8bf-b9ca-4851-b175-37fdbaeb0ed6,2020-10-04 18:41:52 +0000 UTC,Oct,completed,Oolong Milk Tea,"Large, Zero (0%), No Ice",,4.85,21.81,USD,TRUE,Kung Fu Tea,TT,432,686,570,798
+5,a950414b-a339-4fc7-8886-835ffc3d70b7,70edf8bf-b9ca-4851-b175-37fdbaeb0ed6,2020-10-04 18:41:52 +0000 UTC,Oct,completed,Oolong Milk Tea,"Large, Zero (0%), No Ice",,4.85,21.81,USD,TRUE,Kung Fu Tea,TT,595,629,568,692
+5,8444d857-1f43-491d-9016-88725befb83b,55faf3bd-b461-41cb-9502-dab9dfa1c12a,2020-09-22 19:52:41 +0000 UTC,Sep,completed,Oolong Milk Tea,"Herbal Jelly, No Ice, Large, 0%",,4.85,15.86,USD,TRUE,Kung Fu Tea,TT,1190,666,629,689
+5,8444d857-1f43-491d-9016-88725befb83b,55faf3bd-b461-41cb-9502-dab9dfa1c12a,2020-09-22 19:52:41 +0000 UTC,Sep,completed,Milk Green Tea,"Bubbles, No Ice, Medium , 30%",,4.85,15.86,USD,TRUE,Kung Fu Tea,JY,1118,746,871,785
+5,c783d29d-00f7-412a-886c-130cdf777f48,8c72fb1c-f9ce-414f-9260-b372834ab9de,2020-09-19 01:23:26 +0000 UTC,Sep,completed,Oolong Milk Tea,"Large, No Sugar, No Ice, Herbal Jelly",,4,14,USD,TRUE,Gong Cha,TT,578,897,717,747
+5,c783d29d-00f7-412a-886c-130cdf777f48,8c72fb1c-f9ce-414f-9260-b372834ab9de,2020-09-19 01:23:26 +0000 UTC,Sep,completed,Green Milk Tea,"Large, 30% Sugar, Light, Pearl",,4,14,USD,TRUE,Gong Cha,JY,928,878,554,726
+5,5505967a-cfa0-4e22-ad2a-479cb3903ffe,f68676e7-1b75-4133-b856-f076ab9d25a9,2020-09-11 21:34:35 +0000 UTC,Sep,completed,Milk Green Tea,"Bubbles, Less Ice, Medium , 30%",,4.85,15.86,USD,TRUE,Kung Fu Tea,JY,445,724,817,886
+5,5505967a-cfa0-4e22-ad2a-479cb3903ffe,f68676e7-1b75-4133-b856-f076ab9d25a9,2020-09-11 21:34:35 +0000 UTC,Sep,completed,Oolong Milk Tea,"Herbal Jelly, No Ice, Large, 0%",,4.85,15.86,USD,TRUE,Kung Fu Tea,TT,829,646,831,754
+5,c38699a1-98b3-41a3-b6b4-20487870a076,182b36ab-a644-47f9-ad90-2c1371ac09cf,2020-09-08 18:27:01 +0000 UTC,Sep,completed,Vivi Bubble Milk Tea,"Medium, Green Tea, Light Ice, 30% Sugar",,4.5,17.54,USD,TRUE,Vivi Bubble Tea,JY,1159,562,838,708
+5,c783d29d-00f7-412a-886c-130cdf777f48,c8be3c81-d335-4742-8552-29f11ad18a5b,2020-09-08 18:19:50 +0000 UTC,Sep,completed,Oolong Milk Tea,"Large, No Sugar, No Ice, Herbal Jelly",,4,14,USD,TRUE,Gong Cha,TT,998,749,830,826
+5,c783d29d-00f7-412a-886c-130cdf777f48,c8be3c81-d335-4742-8552-29f11ad18a5b,2020-09-08 18:19:50 +0000 UTC,Sep,completed,Oolong Milk Tea,"Large, No Sugar, No Ice, Herbal Jelly",,4,14,USD,TRUE,Gong Cha,TT,300,534,572,640
+5,5505967a-cfa0-4e22-ad2a-479cb3903ffe,272c8f81-8b05-4d84-8bb0-2f0ff563532b,2020-09-05 20:04:30 +0000 UTC,Sep,completed,Milk Green Tea,"Bubbles, Less Ice, Large, 30%",,4.85,17.47,USD,TRUE,Kung Fu Tea,JY,410,752,653,715
+5,5505967a-cfa0-4e22-ad2a-479cb3903ffe,272c8f81-8b05-4d84-8bb0-2f0ff563532b,2020-09-05 20:04:30 +0000 UTC,Sep,completed,Oolong Milk Tea,"Herbal Jelly, No Ice, Large, 0%",,4.85,17.47,USD,TRUE,Kung Fu Tea,TT,664,762,567,776
+5,c783d29d-00f7-412a-886c-130cdf777f48,94d4c639-770e-4c56-a6e0-a0f1ecc57d40,2020-08-30 00:51:34 +0000 UTC,Aug,completed,Green Milk Tea,"Large, 30% Sugar, Less, Pearl",,4,14,USD,TRUE,Gong Cha,JY,969,407,773,601
+5,c783d29d-00f7-412a-886c-130cdf777f48,94d4c639-770e-4c56-a6e0-a0f1ecc57d40,2020-08-30 00:51:34 +0000 UTC,Aug,completed,Oolong Milk Tea,"Large, No Sugar, No Ice, Herbal Jelly",,4,14,USD,TRUE,Gong Cha,TT,1195,415,616,844
+5,c783d29d-00f7-412a-886c-130cdf777f48,fdc49b07-69f8-4cad-8030-af6796889f8e,2020-08-30 00:11:25 +0000 UTC,Aug,completed,Green Milk Tea,"Large, 30% Sugar, Less, Pearl",,4,14,USD,TRUE,Gong Cha,JY,710,300,861,662
+5,c783d29d-00f7-412a-886c-130cdf777f48,fdc49b07-69f8-4cad-8030-af6796889f8e,2020-08-30 00:11:25 +0000 UTC,Aug,completed,Oolong Milk Tea,"Large, No Sugar, No Ice, Herbal Jelly",,4,14,USD,TRUE,Gong Cha,TT,368,547,849,683
+5,5505967a-cfa0-4e22-ad2a-479cb3903ffe,2dc46a26-1d6b-4801-848b-9ecb0978ab1d,2020-08-16 22:43:33 +0000 UTC,Aug,completed,Mango Green Tea,"Little 30%, Less Ice, Large, Extra Mango Jelly",,5.25,16.53,USD,TRUE,Kung Fu Tea,JY,959,419,834,762
+5,5505967a-cfa0-4e22-ad2a-479cb3903ffe,2dc46a26-1d6b-4801-848b-9ecb0978ab1d,2020-08-16 22:43:33 +0000 UTC,Aug,completed,Oolong Milk Tea,"Nata Jelly, No Ice, Hot, 0%",,4.55,16.53,USD,TRUE,Kung Fu Tea,TT,855,742,716,697
+5,5505967a-cfa0-4e22-ad2a-479cb3903ffe,066200fa-06bd-488e-bf86-d7866b68ab08,2020-08-15 22:10:30 +0000 UTC,Aug,completed,Mango Green Tea,"Little 30%, Less Ice, Large, Extra Mango Jelly",,5.25,16.53,USD,TRUE,Kung Fu Tea,JY,307,683,803,825
+5,5505967a-cfa0-4e22-ad2a-479cb3903ffe,066200fa-06bd-488e-bf86-d7866b68ab08,2020-08-15 22:10:30 +0000 UTC,Aug,completed,Oolong Milk Tea,"Nata Jelly, No Ice, Large, 0%",,4.55,16.53,USD,TRUE,Kung Fu Tea,TT,623,581,869,825
+5,3a104dc1-b653-4cc5-937f-6927dd60c8c9,a7c344f6-2e37-43ae-8def-e29e6bd38725,2020-08-12 23:51:47 +0000 UTC,Aug,completed,S3 Brown Sugar Boba with Cream Mousse,None,,5.51,15.14,USD,TRUE,Tiger Sugar (Canal St),TT,643,416,513,679
+5,3a104dc1-b653-4cc5-937f-6927dd60c8c9,a7c344f6-2e37-43ae-8def-e29e6bd38725,2020-08-12 23:51:47 +0000 UTC,Aug,completed,S4 Brown Sugar Milk with Pearl & Cream Mousse,None,,5.51,15.14,USD,TRUE,Tiger Sugar (Canal St),JY,598,500,642,817
+5,db677a70-ac68-4ef8-bd93-cd2006feb9c9,412bd0d0-3ba2-4339-a596-f930e707774a,2020-07-12 21:34:55 +0000 UTC,Jul,completed,Milk Tea with Herbal Jelly,"Large, 30%, No Ice",,5,17.86,USD,TRUE,Gong Cha,JY,418,686,765,798
+5,db677a70-ac68-4ef8-bd93-cd2006feb9c9,412bd0d0-3ba2-4339-a596-f930e707774a,2020-07-12 21:34:55 +0000 UTC,Jul,completed,Pearl Milk Tea,"Large, Cold, No Sugar, No Ice, Basil Seed",,5,17.86,USD,TRUE,Gong Cha,TT,772,650,655,810
+8,8b0fcad4-a10b-48e7-aeb7-1b562229d9eb,e4601776-592f-44e8-a510-b7a71a9914af,2020-04-02 22:02:28 +0000 UTC,Apr,completed,Milk Black Tea,"Large, 30% Sugar, Tapioca (Bubble)",,3.8,30.32,USD,TRUE,Vivi Bubble Tea,JY,1190,798,736,740
+8,8b0fcad4-a10b-48e7-aeb7-1b562229d9eb,e4601776-592f-44e8-a510-b7a71a9914af,2020-04-02 22:02:28 +0000 UTC,Apr,completed,Oolong Milk Tea,"Herb Jelly, No Ice, Hot, No Additional Sugar",,3.8,30.32,USD,TRUE,Vivi Bubble Tea,TT,584,379,862,688
+8,8b0fcad4-a10b-48e7-aeb7-1b562229d9eb,0714cac1-fbd9-445e-a3bc-7c147ae97508,2020-03-28 01:26:52 +0000 UTC,Mar,completed,Oolong Milk Tea,"Herb Jelly, No Ice, Hot, No Additional Sugar",,3.8,10.18,USD,TRUE,Vivi Bubble Tea,TT,483,435,849,835
+8,8b0fcad4-a10b-48e7-aeb7-1b562229d9eb,0714cac1-fbd9-445e-a3bc-7c147ae97508,2020-03-28 01:26:52 +0000 UTC,Mar,completed,Milk Black Tea,"Hot, 30% Sugar, Tapioca (Bubble), No Ice",,3.8,10.18,USD,TRUE,Vivi Bubble Tea,JY,475,799,597,793
+5,54424632-11d1-4bdb-a990-1e9415a36a0a,e609cc0b-5bd4-4661-8b3a-aba11b6119ae,2020-03-15 23:48:27 +0000 UTC,Mar,completed,Medium Green Milk Tea,"No Sugar (0 Percent), Hot, Konjac Jelly, With Straw",,6,22.2,USD,TRUE,KOI THA,TT,615,358,610,690
+5,54424632-11d1-4bdb-a990-1e9415a36a0a,e609cc0b-5bd4-4661-8b3a-aba11b6119ae,2020-03-15 23:48:27 +0000 UTC,Mar,completed,Large Hazelnut Milk Tea,"Golden Bubble, Half Sugar (50 Percent), Less Ice, With Straw",,7.7,22.2,USD,TRUE,KOI THA,JY,329,727,861,749
+5,54424632-11d1-4bdb-a990-1e9415a36a0a,e609cc0b-5bd4-4661-8b3a-aba11b6119ae,2020-03-15 23:48:27 +0000 UTC,Apr,,Black Tea Latte,,,7.7,22.2,USD,TRUE,Chun Yang Tea,JY,787,375,520,631
+5,54424632-11d1-4bdb-a990-1e9415a36a0a,e609cc0b-5bd4-4661-8b3a-aba11b6119ae,2020-03-15 23:48:27 +0000 UTC,Apr,,Black Tea Latte w/Grass Jelly,,,7.7,22.2,USD,TRUE,Chun Yang Tea,TT,782,827,773,778
+5,54424632-11d1-4bdb-a990-1e9415a36a0a,e609cc0b-5bd4-4661-8b3a-aba11b6119ae,2020-03-15 23:48:27 +0000 UTC,Apr,,Hot Black Tea Latte with Pudding,,,7.7,22.2,USD,TRUE,Chun Yang Tea,JY,1094,868,822,674
+5,54424632-11d1-4bdb-a990-1e9415a36a0a,e609cc0b-5bd4-4661-8b3a-aba11b6119ae,2020-03-15 23:48:27 +0000 UTC,Apr,,Black Tea Latte with Grass Jelly,,,7.7,22.2,USD,TRUE,Chun Yang Tea,TT,938,316,682,774
+5,54424632-11d1-4bdb-a990-1e9415a36a0a,e609cc0b-5bd4-4661-8b3a-aba11b6119ae,2020-03-15 23:48:27 +0000 UTC,Apr,,Black Tea Latte with Grass Jelly,,,7.7,22.2,USD,TRUE,Chun Yang Tea,TT,582,751,804,653
+5,54424632-11d1-4bdb-a990-1e9415a36a0a,e609cc0b-5bd4-4661-8b3a-aba11b6119ae,2020-03-15 23:48:27 +0000 UTC,Apr,,Black Tea Latte with Pearl,,,7.7,22.2,USD,TRUE,Chun Yang Tea,JY,876,470,730,833
+5,54424632-11d1-4bdb-a990-1e9415a36a0a,e609cc0b-5bd4-4661-8b3a-aba11b6119ae,2020-03-15 23:48:27 +0000 UTC,Mar,,Hot Black Tea Latte with Pearl,,,7.7,22.2,USD,TRUE,Chun Yang Tea,TT,363,764,666,773
+5,54424632-11d1-4bdb-a990-1e9415a36a0a,e609cc0b-5bd4-4661-8b3a-aba11b6119ae,2020-03-15 23:48:27 +0000 UTC,Mar,,Hot Black Tea Latte with Pearl,,,7.7,22.2,USD,TRUE,Chun Yang Tea,JY,901,585,717,694
+5,54424632-11d1-4bdb-a990-1e9415a36a0a,e609cc0b-5bd4-4661-8b3a-aba11b6119ae,2020-03-15 23:48:27 +0000 UTC,Mar,,Jasmine Milk Tea,,,7.7,22.2,USD,TRUE,Yaya Tea,JY,328,513,798,737
+5,54424632-11d1-4bdb-a990-1e9415a36a0a,e609cc0b-5bd4-4661-8b3a-aba11b6119ae,2020-03-15 23:48:27 +0000 UTC,Mar,,Black Milk Tea,,,7.7,22.2,USD,TRUE,Yaya Tea,TT,1164,731,617,706
+,,,1/2/2021,Jan,,Classic Milk Tea (Black/Green/Oolong Tea),,,,,,,ShareTea,JY,332,676,631,669
+,,,1/2/2021,Jan,,Classic Milk Tea (Black/Green/Oolong Tea),,,,,,,ShareTea,TT,1175,318,768,785
+,,,12/29/2020,Dec,,Classic Milk Tea (Black/Green/Oolong Tea),,,,,,,ShareTea,JY,645,681,596,764
+,,,12/29/2020,Dec,,Classic Milk Tea (Black/Green/Oolong Tea),,,,,,,ShareTea,TT,493,459,617,820
+,,,12/24/2020,Dec,,Classic Milk Tea (Black/Green/Oolong Tea),,,,,,,ShareTea,JY,1082,576,531,610
+,,,12/24/2020,Dec,,Classic Milk Tea (Black/Green/Oolong Tea),,,,,,,ShareTea,TT,441,555,886,738
+,,,12/24/2020,Dec,,Classic Milk Tea (Black/Green/Oolong Tea),,,,,,,ShareTea,JY,1059,481,514,671
+,,,12/5/2020,Dec,,Classic Milk Tea,,,,,,,Moge Tea (East Village),TT,767,429,864,852
+,,,12/5/2020,Dec,,Jasmine Green Milk Tea,,,,,,,Moge Tea (East Village),JY,716,778,788,743
+,,,10/28/2020,Oct,,Mango Green Tea,,,,,,,Kung Fu Tea,JY,909,541,853,841
+,,,10/28/2020,Oct,,Oolong Milk Tea,,,,,,,Kung Fu Tea,TT,1109,649,657,662
+,,,7/8/2020,Jul,,Classic Milk Tea (Black/Green/Oolong Tea),,,,,,,ShareTea,JY,562,695,751,805
+,,,7/8/2020,Jul,,Classic Milk Tea (Black/Green/Oolong Tea),,,,,,,ShareTea,TT,404,869,820,879
+,,,7/4/2020,Jul,,Classic Milk Tea (Black/Green/Oolong Tea),,,,,,,ShareTea,JY,1034,876,698,697
+,,,7/4/2020,Jul,,Classic Milk Tea (Black/Green/Oolong Tea),,,,,,,ShareTea,TT,675,670,732,700
+,,,7/4/2020,Jul,,Mango Green Tea,,,,,,,ShareTea,JY,1109,399,517,887
+,,,7/4/2020,Jul,,Coffee Milk Tea,,,,,,,ShareTea,JY,1188,670,500,604
+,,,7/3/2020,Jul,,Classic Milk Tea (Black/Green/Oolong Tea),,,,,,,ShareTea,TT,1075,597,574,719
+,,,7/3/2020,Jul,,Mango Green Tea,,,,,,,ShareTea,JY,824,451,740,790
+,,,6/30/2020,Jun,,Mango Green Tea,,,,,,,ShareTea,JY,849,674,779,756
+,,,6/30/2020,Jun,,Classic Milk Tea (Black/Green/Oolong Tea),,,,,,,ShareTea,TT,760,746,895,893
+,,,6/30/2020,Jun,,Classic Milk Tea (Black/Green/Oolong Tea),,,,,,,ShareTea,JY,351,325,619,664
+,,,6/20/2020,Jun,,Classic Milk Tea (Black/Green/Oolong Tea),,,,,,,ShareTea,TT,361,898,702,635
+,,,6/20/2020,Jun,,Mango Green Tea,,,,,,,ShareTea,JY,599,318,751,813
+,,,6/13/2020,Jun,,Classic Milk Tea (Black/Green/Oolong Tea),,,,,,,ShareTea,JY,895,578,540,663
+,,,6/13/2020,Jun,,Classic Milk Tea (Black/Green/Oolong Tea),,,,,,,ShareTea,TT,795,759,591,885
+,,,6/12/2020,Jun,,Grapefruit Green Tea,,,,,,,ShareTea,TT,1166,576,799,774
+,,,6/12/2020,Jun,,Mango Green Tea,,,,,,,ShareTea,JY,884,702,772,642
+,,,6/5/2020,Jun,,Classic Milk Tea (Black/Green/Oolong Tea),,,,,,,ShareTea,TT,808,866,725,891
+,,,6/5/2020,Jun,,Mango Green Tea,,,,,,,ShareTea,JY,328,341,658,748
+,,,6/5/2020,Jun,,Oreo Ice Blended with Pearl,,,,,,,ShareTea,JY,492,306,704,759
+,,,6/1/2020,Jun,,Oolong Milk Tea (Large),,,,,,,Vivi Bubble Tea,TT,968,638,809,778
+,,,6/1/2020,Jun,,Vivi Milk Tea (Large),,,,,,,Vivi Bubble Tea,JY,1034,543,661,662
+,,,5/30/2020,May,,Classic Milk Tea (Black/Green/Oolong Tea),,,,,,,ShareTea,TT,1138,727,801,608
+,,,5/30/2020,May,,Mango Green Tea,,,,,,,ShareTea,JY,1148,347,792,630
+,,,5/25/2020,May,,Classic Milk Tea (Black/Green/Oolong Tea),,,,,,,ShareTea,JY,1147,474,633,747
+,,,5/25/2020,May,,Classic Milk Tea (Black/Green/Oolong Tea),,,,,,,ShareTea,TT,317,846,652,848
+,,,5/16/2020,May,,Classic Milk Tea (Black/Green/Oolong Tea),,,,,,,ShareTea,TT,450,843,852,873
+,,,5/16/2020,May,,Mango Green Tea,,,,,,,ShareTea,JY,679,600,794,625
+,,,5/14/2020,May,,Classic Milk Tea (Black/Green/Oolong Tea),,,,,,,ShareTea,JY,741,365,817,712
+,,,5/14/2020,May,,Classic Milk Tea (Black/Green/Oolong Tea),,,,,,,ShareTea,TT,317,703,554,786
+,,,5/14/2020,May,,Mango & Passion Fruit Green Tea,,,,,,,ShareTea,JY,1194,834,746,795
+,,,5/2/2020,May,,Classic Milk Tea (Black/Green/Oolong Tea),,,,,,,ShareTea,TT,565,632,512,651
+,,,5/2/2020,May,,Okinawa Pearl Milk Tea (Roasted Brown Sugar),,,,,,,ShareTea,JY,1135,708,808,635
+,,,5/2/2020,May,,Classic Milk Tea (Black/Green/Oolong Tea),,,,,,,ShareTea,JY,950,851,555,855
+,,,4/25/2020,Apr,,Classic Milk Tea (Black/Green/Oolong Tea),,,,,,,ShareTea,JY,905,562,872,846
+,,,4/25/2020,Apr,,Classic Milk Tea (Black/Green/Oolong Tea),,,,,,,ShareTea,TT,876,501,793,711
+,,,4/12/2020,Apr,,Classic Milk Tea (Black/Green/Oolong Tea),,,,,,,ShareTea,JY,640,759,617,757
+,,,4/12/2020,Apr,,Classic Milk Tea (Black/Green/Oolong Tea),,,,,,,ShareTea,TT,1106,403,683,756
